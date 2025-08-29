@@ -1,0 +1,26 @@
+📂 Advanced File Handling & Exception Handling Program
+-----------------------------------------------------
+
+# Case 1: Reading a text file (sample.txt)
+Enter the filename to read (txt/docx/xlsx): sample.txt
+✅ File has been read successfully and saved as PDF: 'sample_modified.pdf'
+
+
+# Case 2: Reading a Word file (sample.docx)
+Enter the filename to read (txt/docx/xlsx): sample.docx
+✅ File has been read successfully and saved as PDF: 'sample_modified.pdf'
+
+
+# Case 3: Reading an Excel file (sample.xlsx)
+Enter the filename to read (txt/docx/xlsx): sample.xlsx
+✅ File has been read successfully and saved as PDF: 'sample_modified.pdf'
+
+
+# Case 4: File does not exist
+Enter the filename to read (txt/docx/xlsx): not_found.txt
+❌ Error: The file you entered does not exist.
+
+
+# Case 5: Unsupported file type
+Enter the filename to read (txt/docx/xlsx): picture.jpg
+❌ Unsupported file type! Please provide a txt, docx, or xlsx file.
