@@ -80,6 +80,8 @@ By completing this project, you will:
 
 - Build confidence in developing error-proof applications 🚀
 
+---
+
 ## 👨‍💻 Author
 
 **Ojobor Jude Ikechukwu**  
